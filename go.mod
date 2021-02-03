@@ -34,6 +34,7 @@ require (
 	github.com/gorilla/mux v1.8.0
 	github.com/hashicorp/vault/api v1.0.4
 	github.com/jcmturner/gokrb5/v8 v8.4.2
+	github.com/joyent/triton-go v1.8.5
 	github.com/json-iterator/go v1.1.10
 	github.com/klauspost/compress v1.11.7
 	github.com/klauspost/cpuid v1.3.1
